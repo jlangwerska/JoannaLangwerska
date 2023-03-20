@@ -1,4 +1,4 @@
-x = 3
-y = 2
+x = int(input("Enter basic number: "))
+y = int(input("Enter power number: "))
 result = x**y
-print(result)
+print(f' The result is {result}')

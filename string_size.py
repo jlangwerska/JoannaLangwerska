@@ -1,2 +1,2 @@
-word = input()
-print(len(word))
+s = input()
+print(len(s))
